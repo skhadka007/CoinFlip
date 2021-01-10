@@ -1,6 +1,13 @@
 # CoinFlip
 Coin flip android app made in Unity. Written in C#. 
 
+**Phone Screenshots:**
+
+<img src="Screenshots/CoinFlip_screenshot_info.jpg" width="185"> <img src="Screenshots/CoinFlip_screenshot_wood.jpg" width="185">
+<img src="Screenshots/CoinFlip_screenshot_canada.jpg" width="185"> <img src="Screenshots/CoinFlip_screenshot_hongkong.jpg" width="185">
+<img src="Screenshots/CoinFlip_screenshot_india.jpg" width="185">
+_______________________
+
 ## Setup & Installation
 - Install coinFlip.apk file on any Android phone, tablet, or emulator. Version 4.0+
 - Use Unity(https://unity.com/products/unity-platform) to manage and edit files. 
